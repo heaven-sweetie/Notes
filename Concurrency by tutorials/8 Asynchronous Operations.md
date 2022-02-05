@@ -34,12 +34,12 @@ extension AsyncOperation {
 ```
 var state = State.ready {
 	willSet {
-		willChangeValue(forKey: newValue.keyPath)
-		willChangeValue(forKey: state.keyPath)
+		willChangeValue(forKey: "isExecuting")
+		willChangeValue(forKey: "isReady")
 	}
 	didSet {
-		didChangeValue(forKey: oldValue.keyPath)
-		didChangeValue(forKey: state.keyPath)
+		didChangeValue(forKey: "isReady")
+		didChangeValue(forKey: "isExecuting")
 	} 
 }
 ```
