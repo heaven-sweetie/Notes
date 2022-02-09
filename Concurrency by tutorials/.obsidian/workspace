@@ -1,0 +1,78 @@
+{
+  "main": {
+    "id": "a0f9ea9c34c92df4",
+    "type": "split",
+    "children": [
+      {
+        "id": "008369481d28d176",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10 Canceling Operations.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95d476da791db4c4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "16e231bdcd422626",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "66222ca4d073c31e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "14a5e2fd2ec08bd4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "89f8a4e47491da05",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "10 Canceling Operations.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "008369481d28d176",
+  "lastOpenFiles": [
+    "10 Canceling Operations.md"
+  ]
+}

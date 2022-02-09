@@ -1,0 +1,78 @@
+{
+  "main": {
+    "id": "2b8f190e49fa6aaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd0203fabdf73b64",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapter 7 - Introducing Stacks & Containers.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4f3a2dcdd084631",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "11ea65eb1b82f8f1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "919579a79070fa60",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c0c6337500bbba79",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f16c144f86e1cfc7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Chapter 7 - Introducing Stacks & Containers.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "bd0203fabdf73b64",
+  "lastOpenFiles": [
+    "Chapter 7 - Introducing Stacks & Containers.md"
+  ]
+}

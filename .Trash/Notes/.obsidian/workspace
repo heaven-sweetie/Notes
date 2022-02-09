@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "ecc96df85b1ce28c",
+    "id": "ede680e4889f9cb9",
     "type": "split",
     "children": [
       {
-        "id": "37d1e1cd359cd4db",
+        "id": "b2f2ceb196b5b5ae",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "91c44e8738c55239",
+    "id": "897a79ac672cfccb",
     "type": "split",
     "children": [
       {
-        "id": "0f3efbbf4525c695",
+        "id": "64798895cfffd853",
         "type": "tabs",
         "children": [
           {
-            "id": "8b687f8b2949b845",
+            "id": "b7676fcb7bf01d88",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "8637e36ec0234816",
+            "id": "3168daca5c0bf0fb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,18 +49,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206
+    "width": 300
   },
   "right": {
-    "id": "ce73680664b2eae3",
+    "id": "4eee4071fb102a88",
     "type": "split",
     "children": [
       {
-        "id": "2288c63d884a2ba5",
+        "id": "8b3134383fe573d8",
         "type": "tabs",
         "children": [
           {
-            "id": "63c45a960386e3ea",
+            "id": "1059afa028075de9",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -82,15 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37d1e1cd359cd4db",
+  "active": "b2f2ceb196b5b5ae",
   "lastOpenFiles": [
-    "Notes/Dispatch/Dispatch Queue/global(qos:).md",
-    "Notes/Dispatch/Dispatch Queue/DispatchQueue.md",
-    "Notes/Dispatch/Dispatch Object/무제노트.md",
-    "Notes/Dispatch/Dispatch Object/suspend().md",
-    "Notes/Dispatch/무제노트.md",
-    "Notes/Dispatch/Dispatch.md",
-    "Notes/Dispatch/DispatchQueue.md",
-    "Notes/Dispatch/global(qos:).md"
+    "Dispatch/Dispatch Queue/global(qos:).md",
+    "Dispatch/Dispatch Object/suspend().md",
+    "Dispatch/Dispatch Object/무제노트.md",
+    "Dispatch/Dispatch Queue/init(label:qos:attributes:autoreleaseFrequency:target:).md",
+    "Dispatch/Dispatch Queue/DispatchQueue.md",
+    "Dispatch/Dispatch Queue/main.md",
+    "Dispatch/Dispatch.md",
+    "Dispatch/global(qos:).md",
+    "Dispatch/DispatchQueue.md",
+    "Dispatch/init(label:qos:attributes:autoreleaseFrequency:target:).md"
   ]
 }
