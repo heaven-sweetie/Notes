@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37d1e1cd359cd4db",
+        "id": "1da3c73ded618d52",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Progmatic Programmer/1장 실용주의 철학.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"연습 문제\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206
+    "width": 197,
+    "collapsed": true
   },
   "right": {
     "id": "ce73680664b2eae3",
@@ -65,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Progmatic Programmer/1장 실용주의 철학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,23 +81,47 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "8d7a1c549ddaff87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Progmatic Programmer/1장 실용주의 철학.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "393aa47114530172",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Progmatic Programmer/1장 실용주의 철학.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 223,
     "collapsed": true
   },
-  "active": "37d1e1cd359cd4db",
+  "active": "1da3c73ded618d52",
   "lastOpenFiles": [
-    "Notes/Dispatch/Dispatch Queue/global(qos:).md",
-    "Notes/Dispatch/Dispatch Queue/DispatchQueue.md",
-    "Notes/Dispatch/Dispatch Object/무제노트.md",
-    "Notes/Dispatch/Dispatch Object/suspend().md",
-    "Notes/Dispatch/무제노트.md",
-    "Notes/Dispatch/Dispatch.md",
-    "Notes/Dispatch/DispatchQueue.md",
-    "Notes/Dispatch/global(qos:).md"
+    "Progmatic Programmer/1장 실용주의 철학.md",
+    "Swift/용어집.md",
+    "Insight/Interview.md",
+    "Insight/10배 이상 뛰어난 개발자가 되는 법.md",
+    "Insight/Code Convention.md",
+    "10배 이상 뛰어난 개발자가 되는 법.md",
+    "Progmatic Programmer/4장 실용주의 편집증 연습문제.md",
+    "Progmatic Programmer/4장 실용주의 편집증.md",
+    "Insight/HMW.md",
+    "VideoPlayer/Reference.md"
   ]
 }

@@ -1,16 +1,17 @@
 {
   "main": {
-    "id": "2b8f190e49fa6aaf",
+    "id": "aed705b3b76f40ba",
     "type": "split",
     "children": [
       {
-        "id": "bd0203fabdf73b64",
+        "id": "22b036fa954a4728",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 7 - Introducing Stacks & Containers.md",
-            "mode": "preview"
+            "file": "4장 실용주의 편집증.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -18,11 +19,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b4f3a2dcdd084631",
+    "id": "81c66e243bcf2c32",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "11ea65eb1b82f8f1",
+        "id": "084fc07db4ab1080",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -30,7 +31,7 @@
         }
       },
       {
-        "id": "919579a79070fa60",
+        "id": "0bfead7c731b127c",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -48,16 +49,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "c0c6337500bbba79",
+    "id": "e119582ef3904b37",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "f16c144f86e1cfc7",
+        "id": "f3ea1471db3b2248",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chapter 7 - Introducing Stacks & Containers.md",
+            "file": "4장 실용주의 편집증.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -71,8 +72,8 @@
     ],
     "currentTab": 0
   },
-  "active": "bd0203fabdf73b64",
+  "active": "22b036fa954a4728",
   "lastOpenFiles": [
-    "Chapter 7 - Introducing Stacks & Containers.md"
+    "4장 실용주의 편집증.md"
   ]
 }

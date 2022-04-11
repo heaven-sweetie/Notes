@@ -1,14 +1,18 @@
 {
   "main": {
-    "id": "8f7fbae5a256e2f9",
+    "id": "3f72b4106b4e1003",
     "type": "split",
     "children": [
       {
-        "id": "cf6df1c8d7d3b8db",
+        "id": "122b449d84e2fdda",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1. Why Modern Swift Concurrency?.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -54,6 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "1. Why Modern Swift Concurrency?.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -67,6 +72,8 @@
     ],
     "currentTab": 0
   },
-  "active": "cf6df1c8d7d3b8db",
-  "lastOpenFiles": []
+  "active": "122b449d84e2fdda",
+  "lastOpenFiles": [
+    "1. Why Modern Swift Concurrency?.md"
+  ]
 }
