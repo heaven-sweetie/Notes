@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1da3c73ded618d52",
+        "id": "bb93a74eb5bd0599",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Progmatic Programmer/1장 실용주의 철학.md",
+            "file": "Concurrency by tutorials/6 Operations.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -49,13 +49,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "f0cd329d453fe251",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 197,
-    "collapsed": true
+    "width": 197
   },
   "right": {
     "id": "ce73680664b2eae3",
@@ -71,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progmatic Programmer/1장 실용주의 철학.md",
+                "file": "Concurrency by tutorials/6 Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progmatic Programmer/1장 실용주의 철학.md",
+                "file": "Concurrency by tutorials/6 Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +107,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progmatic Programmer/1장 실용주의 철학.md"
+                "file": "Concurrency by tutorials/6 Operations.md"
+              }
+            }
+          },
+          {
+            "id": "32b8edc986c04fe0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -111,17 +129,17 @@
     "width": 223,
     "collapsed": true
   },
-  "active": "1da3c73ded618d52",
+  "active": "bb93a74eb5bd0599",
   "lastOpenFiles": [
+    "Concurrency by tutorials/6 Operations.md",
+    "VideoPlayer/Reference.md",
+    "Insight/Code Convention.md",
+    "Insight/10배 이상 뛰어난 개발자가 되는 법.md",
+    "Modern Concurrency with Swift/1. Why Modern Swift Concurrency?.md",
     "Progmatic Programmer/1장 실용주의 철학.md",
     "Swift/용어집.md",
     "Insight/Interview.md",
-    "Insight/10배 이상 뛰어난 개발자가 되는 법.md",
-    "Insight/Code Convention.md",
     "10배 이상 뛰어난 개발자가 되는 법.md",
-    "Progmatic Programmer/4장 실용주의 편집증 연습문제.md",
-    "Progmatic Programmer/4장 실용주의 편집증.md",
-    "Insight/HMW.md",
-    "VideoPlayer/Reference.md"
+    "Progmatic Programmer/4장 실용주의 편집증 연습문제.md"
   ]
 }
