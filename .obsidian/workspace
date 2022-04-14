@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bb93a74eb5bd0599",
+        "id": "1da3c73ded618d52",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Concurrency by tutorials/6 Operations.md",
+            "file": "Insight/Declarative UIKit.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "f0cd329d453fe251",
+            "id": "4e4bf746feece6c7",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 197
+    "width": 197,
+    "collapsed": true
   },
   "right": {
     "id": "ce73680664b2eae3",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concurrency by tutorials/6 Operations.md",
+                "file": "Insight/Declarative UIKit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concurrency by tutorials/6 Operations.md",
+                "file": "Insight/Declarative UIKit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,12 +108,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concurrency by tutorials/6 Operations.md"
+                "file": "Insight/Declarative UIKit.md"
               }
             }
           },
           {
-            "id": "32b8edc986c04fe0",
+            "id": "ffc0481dfb98df86",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,17 +130,17 @@
     "width": 223,
     "collapsed": true
   },
-  "active": "bb93a74eb5bd0599",
+  "active": "1da3c73ded618d52",
   "lastOpenFiles": [
-    "Concurrency by tutorials/6 Operations.md",
-    "VideoPlayer/Reference.md",
-    "Insight/Code Convention.md",
-    "Insight/10배 이상 뛰어난 개발자가 되는 법.md",
-    "Modern Concurrency with Swift/1. Why Modern Swift Concurrency?.md",
-    "Progmatic Programmer/1장 실용주의 철학.md",
+    "Insight/Declarative UIKit.md",
     "Swift/용어집.md",
+    "Progmatic Programmer/1장 실용주의 철학.md",
     "Insight/Interview.md",
+    "Insight/10배 이상 뛰어난 개발자가 되는 법.md",
+    "Insight/Code Convention.md",
     "10배 이상 뛰어난 개발자가 되는 법.md",
-    "Progmatic Programmer/4장 실용주의 편집증 연습문제.md"
+    "Progmatic Programmer/4장 실용주의 편집증 연습문제.md",
+    "Progmatic Programmer/4장 실용주의 편집증.md",
+    "Insight/HMW.md"
   ]
 }
