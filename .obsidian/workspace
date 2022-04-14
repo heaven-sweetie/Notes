@@ -17,7 +17,7 @@
         }
       },
       {
-        "id": "2ce1e4b5ec9df944",
+        "id": "9de4ebb412e88306",
         "type": "leaf",
         "state": {
           "type": "reveal-preview-view",
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 197,
-    "collapsed": true
+    "width": 197
   },
   "right": {
     "id": "ce73680664b2eae3",
