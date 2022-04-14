@@ -25,6 +25,15 @@
 
 ---
 
+## 1. Preview
+
+
+
+
+---
+
+## 2. 메소드 채이닝
+
 ```
 let alertController = UIAlertController(
   title: "", 
@@ -54,7 +63,6 @@ self.present(self, animated: true, completion: completion)
 
 ---
 
-### 메소드 채이닝
 * 속성을 적용하는 메소드가 객체 스스로를 반환
 
 ```
@@ -103,10 +111,11 @@ UIAlertController(title: "", message: "", preferredStyle: .alert)
 ```
 
 ---
-
 ## 참고
 
  * [UIKit으로 SwiftUI(처럼)만들기](https://www.youtube.com/watch?v=DRRAV3pyQJ8&list=PL03rJBlpwTaA-RiPm1m8R8xajSaG0SNq-)
 	 * 메소드 채이닝을 포함한 UIKit + SnapKit + RxSwift를 이용해서 SwiftUI처럼 구현하는 방법을 설명하는 영상
+ * [당장 적용하는 SwiftUI의 아이디어](https://youtu.be/7fanl8FrAbY)
+	 * RxSwift와 UIKit 조합으로 SwiftUI에서와 같은 MVVM 아키텍쳐 구현 설명하는 영상
  * [MihaelIsaev/UIKitPlus](https://github.com/MihaelIsaev/UIKitPlus)
 	 * UIKit을 사용하면서 반응형 UI처럼 구현할 수 있게 해주는 오픈소스 프레임워크
