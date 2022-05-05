@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1da3c73ded618d52",
+        "id": "7322c3e3e880b6d1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Insight/Declarative UIKit.md",
+            "file": "Insight/무제노트.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
-        }
-      },
-      {
-        "id": "9de4ebb412e88306",
-        "type": "leaf",
-        "state": {
-          "type": "reveal-preview-view",
-          "state": {}
         }
       }
     ],
@@ -70,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 197
+    "width": 178
   },
   "right": {
     "id": "ce73680664b2eae3",
@@ -86,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Insight/Declarative UIKit.md",
+                "file": "Insight/무제노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Insight/Declarative UIKit.md",
+                "file": "Insight/무제노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Insight/Declarative UIKit.md"
+                "file": "Insight/무제노트.md"
               }
             }
           },
@@ -137,8 +129,9 @@
     "width": 223,
     "collapsed": true
   },
-  "active": "1da3c73ded618d52",
+  "active": "7322c3e3e880b6d1",
   "lastOpenFiles": [
+    "Insight/무제노트.md",
     "Insight/Declarative UIKit.md",
     "Swift/용어집.md",
     "Progmatic Programmer/1장 실용주의 철학.md",
@@ -147,7 +140,6 @@
     "Insight/Code Convention.md",
     "10배 이상 뛰어난 개발자가 되는 법.md",
     "Progmatic Programmer/4장 실용주의 편집증 연습문제.md",
-    "Progmatic Programmer/4장 실용주의 편집증.md",
-    "Insight/HMW.md"
+    "Progmatic Programmer/4장 실용주의 편집증.md"
   ]
 }
